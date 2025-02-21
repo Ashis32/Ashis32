@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is  Ashis Kumar Behura and I'm a Frontend Developer from Odisha, India.</h2>
+<h2 align="left">Hi 👋! My name is  Ashis Kumar Behura and I'm a Fullstack Developer from Odisha, India.</h2>
 
 ###
 
