@@ -1,45 +1,115 @@
-<h2 align="left">Hi 👋! My name is  Ashis Kumar Behura and I'm a Fullstack Developer from Odisha, India.</h2>
+<h1 align="center"><samp>Turning Ideas Into Code</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
 
-###
+<h2 align="center"><samp>Hi 👋 I'm Ashis32</samp></h2>
+<h3 align="center"><samp>A passionate developer from India</samp> </h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashis32&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashis32&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
+
+<!-- Badge -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashis32&label=Profile%20views&color=0e75b6&style=flat" alt="Ashis32" /> </p>
+
+<div style="margin-bottom: 200px;"></div>
+
+<samp>- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/ashis32/)</samp>
+<br>
+<samp>- 📫 Email: your-email@example.com</samp>
+<br>
+<samp>- 🚀 Love building cool apps & learning new things</samp>
+<br>
+<samp>- ⌨️ Fun fact: I'm always up for a coding challenge! 💻</samp>
+
+<!-- Quote -->
+<div style="margin-bottom: 60px;"></div>
+<h3 ><samp>✍️Random Dev Quote</samp></h3>
+    <div>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
+    </div>
+
+<!-- Languages -->
+<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="icon" width="45" height="45" />
+      <br>Python
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="45" height="45" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="45" height="45" />
+      <br>React
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="45" height="45" />
+      <br>Node.js
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=git" alt="icon" width="45" height="45" />
+      <br>Git
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
+      <br>GitHub
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="45" height="45" />
+      <br>Linux
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="45" height="45" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+      <br>VSCode
+    </td>
+  </tr>
+</table>
 </div>
 
-###
+<br>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</div>
+<h3 align="center"><samp>📟 GitHub Stats</samp></h3>
+<p align="center">
+ <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Ashis32&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=5fa0fe&icon_color=5fa0fe&text_color=ffffff" alt="GitHub Stats"/>
 
-###
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashis32&layout=compact&hide_border=true&bg_color=00000000&langs_count=6" alt="Top Languages"/>
 
-<div align="left">
-  <a href="https://www.instagram.com/kumar_ashis32/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ashiskumarbehura/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/kumar_ashis32" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="meet@ashiskumarbehura.co.in" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=Ashis32&hide_border=true&background=00000000&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=5fa0fe&sideLabels=5fa0fe&dates=ffffff" alt="GitHub Streak"/>
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/ashis32"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="ashis32-buymeacoffee" />     </a>
+</p>
