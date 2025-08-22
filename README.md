@@ -111,7 +111,7 @@
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=Ashis32&hide_border=true&background=00000000&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=5fa0fe&sideLabels=5fa0fe&dates=ffffff" alt="GitHub Streak"/>
   <br>
   <br>
-  <a href="https://www.your-fundme-link.com" target="_blank" rel="noopener">
+  <a href="https://pmny.in/kImRz7kGh6AR" target="_blank" rel="noopener">
   <img align="center" src="https://img.shields.io/badge/Fund%20Me-orange?style=for-the-badge&logo=paypal" height="50" width="210" alt="Fund Me" />
 </a>
 </p>
