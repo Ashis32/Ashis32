@@ -115,3 +115,25 @@
   <img align="center" src="https://img.shields.io/badge/Fund%20Me-orange?style=for-the-badge&logo=paypal" height="50" width="210" alt="Fund Me" />
 </a>
 </p>
+<h3 align="center"><samp>🌐 Connect with me</samp></h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashis32/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/your_twitter" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/your_instagram" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Ashis32" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  </a>
+</p>
