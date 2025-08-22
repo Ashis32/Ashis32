@@ -10,7 +10,7 @@
 
 <div style="margin-bottom: 200px;"></div>
 
-<samp>- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/ashiskumarbehura/)</samp>
+<samp>- 📫 Reach me at [Website](https://ashiskumarbehura.co.in/)</samp>
 <br>
 <samp>- 📫 Email: meet@ashiskumarbehura.co.in</samp>
 <br>
@@ -117,23 +117,23 @@
 </p>
 <h3 align="center"><samp>🌐 Connect with me</samp></h3>
 <p align="center">
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://ashiskumarbehura.co.in/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" alt="Website" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/ashis32/" target="_blank">
+  <a href="https://www.linkedin.com/in/ashiskumarbehura/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/your_twitter" target="_blank">
+  <a href="https://x.com/kumar_ashis32" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" alt="Twitter" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/your_instagram" target="_blank">
+  <a href="https://www.instagram.com/kumar_ashis32/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" />
   </a>
   &nbsp;
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:meet@ashiskumarbehura.co.in" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
   </a>
   &nbsp;
