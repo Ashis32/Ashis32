@@ -1,6 +1,6 @@
 <h1 align="center"><samp>Turning Ideas Into Code</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
 
-<h2 align="center"><samp>Hi 👋 I'm Ashis32</samp></h2>
+<h2 align="center"><samp>Hi 👋 I'm Ashis Kumar Behura</samp></h2>
 <h3 align="center"><samp>A passionate developer from India</samp> </h3>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
@@ -10,11 +10,11 @@
 
 <div style="margin-bottom: 200px;"></div>
 
-<samp>- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/ashis32/)</samp>
+<samp>- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/ashiskumarbehura/)</samp>
 <br>
-<samp>- 📫 Email: your-email@example.com</samp>
+<samp>- 📫 Email: meet@ashiskumarbehura.co.in</samp>
 <br>
-<samp>- 🚀 Love building cool apps & learning new things</samp>
+<samp>- 🚀 I love to code & build solutions for problems that makes something easier.</samp>
 <br>
 <samp>- ⌨️ Fun fact: I'm always up for a coding challenge! 💻</samp>
 
@@ -54,10 +54,10 @@
         <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
       <br>GitHub
     </td>
-    <td align="center" width="100">
+<!--     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="45" height="45" />
       <br>Linux
-    </td>
+    </td> -->
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="45" height="45" />
       <br>MySQL
@@ -80,10 +80,10 @@
       <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
       <br>Django
     </td>
-    <td align="center" width="100">
+<!--     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
       <br>AWS
-    </td>
+    </td> -->
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
@@ -111,5 +111,7 @@
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=Ashis32&hide_border=true&background=00000000&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=5fa0fe&sideLabels=5fa0fe&dates=ffffff" alt="GitHub Streak"/>
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/ashis32"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="ashis32-buymeacoffee" />     </a>
+  <a href="https://www.your-fundme-link.com" target="_blank" rel="noopener">
+  <img align="center" src="https://img.shields.io/badge/Fund%20Me-orange?style=for-the-badge&logo=paypal" height="50" width="210" alt="Fund Me" />
+</a>
 </p>
