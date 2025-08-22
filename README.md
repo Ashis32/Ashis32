@@ -3,7 +3,7 @@
 <h2 align="center"><samp>Hi 👋 I'm Ashis Kumar Behura</samp></h2>
 <h3 align="center"><samp>A passionate developer from India</samp> </h3>
 
-<img align="center" alt="Coding" width="1000" src="[gif.gif]([https://github.com/Ashis32/Ashis32/blob/main/gif.gif])">
+<img align="center" alt="Coding" width="1000" src="gif1portfolio.gif">
 
 <!-- Badge -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashis32&label=Profile%20views&color=0e75b6&style=flat" alt="Ashis32" /> </p>
