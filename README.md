@@ -117,23 +117,27 @@
 </p>
 <h3 align="center"><samp>🌐 Connect with me</samp></h3>
 <p align="center">
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" alt="Website" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/ashis32/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://twitter.com/your_twitter" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" alt="Twitter" />
   </a>
   &nbsp;
   <a href="https://instagram.com/your_instagram" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" />
   </a>
   &nbsp;
   <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://github.com/Ashis32" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub" />
   </a>
 </p>
