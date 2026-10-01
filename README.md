@@ -15,9 +15,15 @@
   <img src="https://img.shields.io/badge/Based%20in-India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00d4ff" alt="India"/>
 </p>
 
+<!-- ════════════════════════ SNAKE ════════════════════════ -->
 <p align="center">
-  <img alt="Coding" width="100%" src="gif2github.gif">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashis32/Ashis32/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashis32/Ashis32/output/github-snake.svg"/>
+    <img alt="Snake eating my contributions" width="100%" src="https://raw.githubusercontent.com/Ashis32/Ashis32/output/github-snake-dark.svg"/>
+  </picture>
 </p>
+<p align="center"><samp>🐍 my commits, served as snake food — regenerated daily</samp></p>
 
 <!-- ════════════════════════ ABOUT ════════════════════════ -->
 <h2><samp>⚙️ &nbsp;whoami</samp></h2>
