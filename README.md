@@ -1,143 +1,122 @@
-<h1 align="center"><samp>Turning Ideas Into Code</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
+<!-- ════════════════════════ HEADER ════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7f5af0,100:00d4ff&height=220&section=header&text=Ashis%20Kumar%20Behura&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Turning%20Ideas%20Into%20Code%20%E2%80%A2%20Data%20%E2%80%A2%20Cloud%20%E2%80%A2%20Web&descAlignY=56&descSize=18&animation=fadeIn" width="100%" alt="header"/>
+</p>
 
-<h2 align="center"><samp>Hi 👋 I'm Ashis Kumar Behura</samp></h2>
-<h3 align="center"><samp>A passionate developer from India</samp> </h3>
+<p align="center">
+  <a href="https://ashiskumarbehura.co.in/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B+I'm+Ashis+Kumar+Behura;Azure+Data+Engineer+%E2%98%81%EF%B8%8F;Databricks+%E2%80%A2+PySpark+%E2%80%A2+SQL;Full-stack+builder+from+India+%F0%9F%87%AE%F0%9F%87%B3;Always+up+for+a+coding+challenge+%F0%9F%92%BB" alt="Typing intro"/>
+  </a>
+</p>
 
-<img align="center" alt="Coding" width="1000" src="gif2github.gif">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashis32&label=PROFILE%20VIEWS&color=7f5af0&style=for-the-badge" alt="Profile views"/>
+  <a href="https://ashiskumarbehura.co.in/"><img src="https://img.shields.io/badge/ashiskumarbehura.co.in-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00d4ff" alt="Website"/></a>
+  <img src="https://img.shields.io/badge/Based%20in-India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00d4ff" alt="India"/>
+</p>
 
-<!-- Badge -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashis32&label=Profile%20views&color=0e75b6&style=flat" alt="Ashis32" /> </p>
+<p align="center">
+  <img alt="Coding" width="100%" src="gif2github.gif">
+</p>
 
-<div style="margin-bottom: 200px;"></div>
+<!-- ════════════════════════ ABOUT ════════════════════════ -->
+<h2><samp>⚙️ &nbsp;whoami</samp></h2>
 
-<samp>- 📫 Reach me at [Website](https://ashiskumarbehura.co.in/)</samp>
-<br>
-<samp>- 📫 Email: meet@ashiskumarbehura.co.in</samp>
-<br>
-<samp>- 🚀 I love to code & build solutions for problems that makes something easier.</samp>
-<br>
-<samp>- ⌨️ Fun fact: I'm always up for a coding challenge! 💻</samp>
+```python
+class AshisKumarBehura:
+    role      = "Azure Data Engineer & Developer"
+    location  = "India 🇮🇳"
+    website   = "https://ashiskumarbehura.co.in"
+    email     = "meet@ashiskumarbehura.co.in"
 
-<!-- Quote -->
-<div style="margin-bottom: 60px;"></div>
-<h3 ><samp>✍️Random Dev Quote</samp></h3>
-    <div>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
-    </div>
+    pipeline  = {
+        "extract":   ["ideas", "problems", "raw data"],
+        "transform": ["Python", "PySpark", "SQL", "JavaScript"],
+        "load":      ["clean solutions", "web apps", "insights"],
+    }
 
-<!-- Languages -->
-<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
-<div style="display: flex; align-items: flex-start; align: center">
+    def mission(self):
+        return "Build solutions that make something easier."
+
+    def fun_fact(self):
+        return "Always up for a coding challenge! 💻"
+```
+
+<!-- ════════════════════════ STACK ════════════════════════ -->
+<h2><samp>🧰 &nbsp;Tech Stack</samp></h2>
+
 <table align="center">
   <tr>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="icon" width="45" height="45" />
-      <br>Python
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="45" height="45" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="45" height="45" />
-      <br>React
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="45" height="45" />
-      <br>Node.js
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=git" alt="icon" width="45" height="45" />
-      <br>Git
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
-      <br>GitHub
-    </td>
-<!--     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="45" height="45" />
-      <br>Linux
-    </td> -->
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="45" height="45" />
-      <br>MySQL
+    <td align="center" width="160"><samp><b>☁️ Data &amp; Cloud</b></samp></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=azure,py,mysql&theme=dark" height="44" alt="Azure, Python, MySQL"/>
+      <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="28" alt="Databricks"/>
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="28" alt="PySpark"/>
+      <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=databricks&logoColor=00d4ff" height="28" alt="SQL"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+    <td align="center"><samp><b>🌐 Web &amp; Backend</b></samp></td>
+    <td><img src="https://skillicons.dev/icons?i=js,react,nodejs,django,html,css,bootstrap&theme=dark" height="44" alt="Web stack"/></td>
+  </tr>
+  <tr>
+    <td align="center"><samp><b>🛠️ Tools</b></samp></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&theme=dark" height="44" alt="Tools"/></td>
+  </tr>
+</table>
+
+<!-- ════════════════════════ STATS ════════════════════════ -->
+<h2><samp>📟 &nbsp;GitHub Dashboard</samp></h2>
+
+<table align="center">
+  <tr>
+    <td width="55%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ashis32&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00d4ff&icon_color=7f5af0&text_color=c9d1d9&ring_color=00d4ff&rank_icon=github" alt="GitHub Stats"/>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
+    <td width="45%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashis32&layout=donut&langs_count=6&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" alt="Top Languages"/>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=Ashis32&hide_border=true&border_radius=12&background=0d1117&stroke=7f5af0&ring=00d4ff&fire=7f5af0&currStreakLabel=00d4ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=00d4ff&dates=8b949e" width="100%" alt="GitHub Streak"/>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-      <br>Django
-    </td>
-<!--     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td> -->
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-      <br>VSCode
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashis32&bg_color=0d1117&color=c9d1d9&title_color=00d4ff&line=7f5af0&point=00d4ff&area=true&area_color=7f5af0&hide_border=true&radius=12" width="100%" alt="Contribution Graph"/>
     </td>
   </tr>
 </table>
-</div>
 
-<br>
-
-<h3 align="center"><samp>📟 GitHub Stats</samp></h3>
 <p align="center">
- <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Ashis32&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=5fa0fe&icon_color=5fa0fe&text_color=ffffff" alt="GitHub Stats"/>
-
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashis32&layout=compact&hide_border=true&bg_color=00000000&langs_count=6" alt="Top Languages"/>
-
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=Ashis32&hide_border=true&background=00000000&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=5fa0fe&sideLabels=5fa0fe&dates=ffffff" alt="GitHub Streak"/>
-  <br>
-  <br>
-  <a href="https://pmny.in/kImRz7kGh6AR" target="_blank" rel="noopener">
-  <img align="center" src="https://img.shields.io/badge/Fund%20Me-orange?style=for-the-badge&logo=paypal" height="50" width="210" alt="Fund Me" />
-</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashis32&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies"/>
 </p>
-<h3 align="center"><samp>🌐 Connect with me</samp></h3>
+
+<!-- ════════════════════════ QUOTE ════════════════════════ -->
+<h2><samp>✍️ &nbsp;Random Dev Quote</samp></h2>
+
 <p align="center">
-  <a href="https://ashiskumarbehura.co.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" alt="Website" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ashiskumarbehura/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/kumar_ashis32" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" alt="Twitter" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/kumar_ashis32/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="mailto:meet@ashiskumarbehura.co.in" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Ashis32" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" alt="Random Dev Quote"/>
+</p>
+
+<!-- ════════════════════════ CONNECT ════════════════════════ -->
+<h2><samp>🌐 &nbsp;Connect with me</samp></h2>
+
+<p align="center">
+  <a href="https://ashiskumarbehura.co.in/"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00d4ff" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/ashiskumarbehura/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/kumar_ashis32"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.instagram.com/kumar_ashis32/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:meet@ashiskumarbehura.co.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Ashis32"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<p align="center">
+  <a href="https://pmny.in/kImRz7kGh6AR"><img src="https://img.shields.io/badge/☕%20Support%20my%20work-7f5af0?style=for-the-badge&logo=paypal&logoColor=white" height="40" alt="Fund Me"/></a>
+</p>
+
+<!-- ════════════════════════ FOOTER ════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7f5af0,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
 </p>
