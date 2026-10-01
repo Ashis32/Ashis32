@@ -27,7 +27,7 @@ class AshisKumarBehura:
     role      = "Azure Data Engineer & Developer"
     location  = "India 🇮🇳"
     website   = "https://ashiskumarbehura.co.in"
-    email     = "meet@ashiskumarbehura.co.in"
+    email     = "ashiskumarbehura100@gmail.com"
 
     pipeline  = {
         "extract":   ["ideas", "problems", "raw data"],
@@ -108,7 +108,7 @@ class AshisKumarBehura:
   <a href="https://www.linkedin.com/in/ashiskumarbehura/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/kumar_ashis32"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.instagram.com/kumar_ashis32/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:meet@ashiskumarbehura.co.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:ashiskumarbehura100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Ashis32"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
