@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashis32&label=PROFILE%20VIEWS&color=7f5af0&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ashis32&label=Profile%20views&color=7f5af0&style=flat" alt="Profile views"/>
   <a href="https://ashiskumarbehura.co.in/"><img src="https://img.shields.io/badge/ashiskumarbehura.co.in-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00d4ff" alt="Website"/></a>
   <img src="https://img.shields.io/badge/Based%20in-India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00d4ff" alt="India"/>
 </p>
@@ -90,13 +90,18 @@ class AshisKumarBehura:
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashis32&bg_color=0d1117&color=c9d1d9&title_color=00d4ff&line=7f5af0&point=00d4ff&area=true&area_color=7f5af0&hide_border=true&radius=12" width="100%" alt="Contribution Graph"/>
+      <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Contribution Graph"/>
     </td>
   </tr>
 </table>
 
+<h3 align="center"><samp>🏙️ My Contribution Skyline</samp></h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashis32&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashis32/Ashis32/output/profile-night-rainbow.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashis32/Ashis32/output/profile-season-animate.svg"/>
+    <img src="https://raw.githubusercontent.com/Ashis32/Ashis32/output/profile-night-rainbow.svg" width="100%" alt="3D Contribution Skyline"/>
+  </picture>
 </p>
 
 <!-- ════════════════════════ QUOTE ════════════════════════ -->
